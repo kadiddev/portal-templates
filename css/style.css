@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.header {
+    background: #4CAF50;
+    color: white;
+    padding: 2em;
+    text-align: center;
+}
+
+.container {
+    padding: 2em;
+    max-width: 800px;
+    margin: auto;
+}
+
+.template-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.template-list li {
+    margin-bottom: 1em;
+}
+
+.template-list a {
+    text-decoration: none;
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+.footer {
+    background: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+header, main, footer {
+    padding: 1em;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+}
+
+footer {
+    background: #333;
+    color: white;
+}
